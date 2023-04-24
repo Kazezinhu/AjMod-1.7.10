@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aj",
+  "name": "AjMod",
+  "description": "AjMod",
+  "version": "1.7.10-0.5.2-final",
+  "mcversion": "1.7.10",
+  "url": "https://curseforge.com/minecraft/mc-mods/ajmod",
+  "updateUrl": "https://curseforge.com/minecraft/mc-mods/ajmod",
+  "authorList": ["Kazezinhu"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

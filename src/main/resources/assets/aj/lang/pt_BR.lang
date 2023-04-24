@@ -1,0 +1,26 @@
+item.ItemLove.name=Amor
+item.CyanItem.name=Ciano
+
+item.PickaxeLove.name=Picareta de Amor
+item.AxeLove.name=Machado de Amor
+item.HoeLove.name=Enxada de Amor
+item.SwordLove.name=Varinha de Amor
+item.ShovelLove.name=Pá de Amor
+item.StickLove.name=Graveto de Amor
+item.SwordLove.name=Espada de Amor
+item.ArrowLove.name=Seta de Amor
+item.CyanSword.name=Espada Ciano
+
+item.HelmetLove.name=Capacete de Amor
+item.ChestplateLove.name=Peitoral de Amor
+item.LeggingsLove.name=Calças de Amor
+item.BootsLove=Botas de Amor
+
+tile.BlockLove.name=Bloco de Amor
+tile.LoveOre.name=Minério de Amor
+tile.CyanOre.name=Minério Ciano
+tile.CyanBlock.name=Bloco Ciano
+
+itemGroup.tabAjMod=Aj Mod
+entity.aj.name=Aj
+entity.kaze.name=Kazezinhu

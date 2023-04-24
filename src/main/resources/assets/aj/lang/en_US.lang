@@ -1,0 +1,26 @@
+item.ItemLove.name=Love
+item.CyanItem.name=Cyan
+
+item.PickaxeLove.name=Love Pickaxe
+item.AxeLove.name=Love Axe
+item.HoeLove.name=Love Hoe
+item.VarLove.name=Love Wand
+item.ShovelLove.name=Love Shovel
+item.StickLove.name=Love Stick
+item.SwordLove.name=Love Sword
+item.ArrowLove.name=Love Arrow
+item.CyanSword.name=Cyan Sword
+
+item.HelmetLove.name=Love Helmet
+item.ChestplateLove.name=Love Chestplate
+item.LeggingsLove.name=Love Leggings
+item.BootsLove.name=Love Boots
+
+tile.BlockLove.name=Love Block
+tile.LoveOre.name=Love Ore
+tile.CyanOre.name=Cyan Ore
+tile.CyanBlock.name=Cyan Block
+
+itemGroup.tabAjMod=Aj Mod
+entity.aj.name=Aj
+entity.kaze.name=Kazezinhu
