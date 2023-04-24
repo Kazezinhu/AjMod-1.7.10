@@ -10,3 +10,5 @@ A 2019 Minecraft 1.7.10 mod project for Canal do AJ.
 - Tools and equipment made from love and cyan which can be crafted;
 - Server compatibility;
 - Updates for textures and fixes for errors on the 0.4 release in 2019.
+
+A build can be downloaded at [CurseForge](https://curseforge.com/minecraft/mc-mods/ajmod/files/4505073)
